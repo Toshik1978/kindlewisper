@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for f in $1/*.azw3
+do
+    python3 `dirname $0`/kindlewisper.py -m pc -cs os -cl yes "$f"
+done
