@@ -1,5 +1,8 @@
 KindleWisper
 ============
+
+This version based on [KindleWisper](https://github.com/knigophil/KindleWisper) by knigophil. Repository cleaned from all not-mandatory files, and works find on macOS.
+
 Sending Kindle books and optionally stamped covers to device via USB (based on **KindleButler version 0.1**).
 If cover is missing from the book KindleWisper creates default cover and stamps it with 
 author(s) name(s) and book title.
